@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6429bcd4d0b536c71dd09d35"
+  },
+  "codigo": 1001,
+  "nomApels": "Pepe Sanchez"
+},{
+  "_id": {
+    "$oid": "6429bcd4d0b536c71dd09d36"
+  },
+  "codigo": 1002,
+  "nomApels": "Alma del Bosque"
+},{
+  "_id": {
+    "$oid": "6429bcd4d0b536c71dd09d37"
+  },
+  "codigo": 1003,
+  "nomApels": "Elsa Capunta"
+},{
+  "_id": {
+    "$oid": "6429bd36d0b536c71dd09d38"
+  },
+  "codigo": 1001,
+  "nomApels": "Encarna Vales"
+},{
+  "_id": {
+    "$oid": "6429bd36d0b536c71dd09d39"
+  },
+  "codigo": 1002,
+  "nomApels": "Armando Jaleo"
+},{
+  "_id": {
+    "$oid": "6429bd36d0b536c71dd09d3a"
+  },
+  "codigo": 1003,
+  "nomApels": "Elena Nito"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6429bfefd0b536c71dd09d3b"
+  },
+  "codigo": 1001,
+  "nombre": "Planta de Llanten-Hierba Medicinal",
+  "precio": 4
+},{
+  "_id": {
+    "$oid": "6429bfefd0b536c71dd09d3c"
+  },
+  "codigo": 1002,
+  "nombre": "Planta de Ruda",
+  "precio": 5
+},{
+  "_id": {
+    "$oid": "6429bfefd0b536c71dd09d3d"
+  },
+  "codigo": 1003,
+  "nombre": "Planta de Mielenrama",
+  "precio": 5
+},{
+  "_id": {
+    "$oid": "6429bfefd0b536c71dd09d3e"
+  },
+  "codigo": 1001,
+  "nombre": "Planta de Romero",
+  "precio": 3
+},{
+  "_id": {
+    "$oid": "6429bfefd0b536c71dd09d3f"
+  },
+  "codigo": 1001,
+  "nombre": "Hierba romero",
+  "precio": 4
+},{
+  "_id": {
+    "$oid": "6429bfefd0b536c71dd09d40"
+  },
+  "codigo": 1001,
+  "nombre": "Hierba de San Juan",
+  "precio": 6
+},{
+  "_id": {
+    "$oid": "6429bfefd0b536c71dd09d41"
+  },
+  "codigo": 1001,
+  "nombre": "Planta de Sol de Oro - Helicriso",
+  "precio": 3
+}]
