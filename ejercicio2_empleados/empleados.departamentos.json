@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6422be4f37bbb5042dea4c3a"
+  },
+  "Codigo": 1,
+  "Nombre": "Compras",
+  "Presupuesto": 120000
+},{
+  "_id": {
+    "$oid": "6422be4f37bbb5042dea4c3b"
+  },
+  "Codigo": 2,
+  "Nombre": "RRHH",
+  "Presupuesto": 130000
+},{
+  "_id": {
+    "$oid": "6422be4f37bbb5042dea4c3c"
+  },
+  "Codigo": 7,
+  "Nombre": "Medio Ambiente",
+  "Presupuesto": 22000
+},{
+  "_id": {
+    "$oid": "6422be4f37bbb5042dea4c3d"
+  },
+  "Codigo": 12,
+  "Nombre": "Operaciones",
+  "Presupuesto": 30000
+}]

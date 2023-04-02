@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6422c5c137bbb5042dea4c46"
+  },
+  "codigo": 1,
+  "Nombre": "Memento",
+  "CalificacionEdad": 16
+},{
+  "_id": {
+    "$oid": "6422c5c137bbb5042dea4c47"
+  },
+  "codigo": 2,
+  "Nombre": "Big Fish",
+  "CalificacionEdad": 7
+},{
+  "_id": {
+    "$oid": "6422c5c137bbb5042dea4c48"
+  },
+  "codigo": 3,
+  "Nombre": "Loca Academia de Policia",
+  "CalificacionEdad": 0
+},{
+  "_id": {
+    "$oid": "6422c5c137bbb5042dea4c49"
+  },
+  "codigo": 4,
+  "Nombre": "El chico de Oro",
+  "CalificacionEdad": 7
+},{
+  "_id": {
+    "$oid": "6422c5c137bbb5042dea4c4a"
+  },
+  "codigo": 5,
+  "Nombre": "El Padrino",
+  "CalificacionEdad": 16
+}]

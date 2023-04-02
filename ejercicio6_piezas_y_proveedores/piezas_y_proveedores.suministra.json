@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6422cbb937bbb5042dea4c60"
+  },
+  "CodigoPieza": {
+    "$oid": "6422cab037bbb5042dea4c5a"
+  },
+  "idProveedor": {
+    "$oid": "6422ccb137bbb5042dea4c68"
+  },
+  "Precio": 1
+},{
+  "_id": {
+    "$oid": "6422cbb937bbb5042dea4c61"
+  },
+  "CodigoPieza": {
+    "$oid": "6422cab037bbb5042dea4c5b"
+  },
+  "idProveedor": {
+    "$oid": "6422ccb137bbb5042dea4c68"
+  },
+  "Precio": 4
+},{
+  "_id": {
+    "$oid": "6422cbb937bbb5042dea4c62"
+  },
+  "CodigoPieza": {
+    "$oid": "6422cab037bbb5042dea4c5c"
+  },
+  "idProveedor": "A003",
+  "Precio": 3
+},{
+  "_id": {
+    "$oid": "6422cbb937bbb5042dea4c63"
+  },
+  "CodigoPieza": {
+    "$oid": "6422cab037bbb5042dea4c5a"
+  },
+  "idProveedor": {
+    "$oid": "6422ccb137bbb5042dea4c69"
+  },
+  "Precio": 1
+},{
+  "_id": {
+    "$oid": "6422cbb937bbb5042dea4c64"
+  },
+  "CodigoPieza": {
+    "$oid": "6422cab037bbb5042dea4c5b"
+  },
+  "idProveedor": {
+    "$oid": "6422ccb137bbb5042dea4c6a"
+  },
+  "Precio": 4
+}]

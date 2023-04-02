@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6422c8c737bbb5042dea4c50"
+  },
+  "DNI": "05073498A",
+  "NomApels": "Patricia del Cerro ",
+  "DNIJefe": {
+    "$oid": "6422c8c737bbb5042dea4c52"
+  },
+  "Despacho": {
+    "$oid": "6422c95737bbb5042dea4c55"
+  }
+},{
+  "_id": {
+    "$oid": "6422c8c737bbb5042dea4c51"
+  },
+  "DNI": "45674567D",
+  "NomApels": "Juan del Peral",
+  "DNIJefe": {
+    "$oid": "6422c8c737bbb5042dea4c52"
+  },
+  "Despacho": {
+    "$oid": "6422c95737bbb5042dea4c54"
+  }
+},{
+  "_id": {
+    "$oid": "6422c8c737bbb5042dea4c52"
+  },
+  "DNI": "10101010A",
+  "NomApels": "Lucia del Manzano",
+  "DNIJefe": {
+    "$oid": "6422c8c737bbb5042dea4c51"
+  },
+  "Despacho": {
+    "$oid": "6422c95737bbb5042dea4c54"
+  }
+},{
+  "_id": {
+    "$oid": "6422c8c737bbb5042dea4c53"
+  },
+  "DNI": "08077442A",
+  "NomApels": "Luz de la Hera",
+  "DNIJefe": {
+    "$oid": "6422c8c737bbb5042dea4c52"
+  },
+  "Despacho": {
+    "$oid": "6422c95737bbb5042dea4c56"
+  }
+}]

@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6422c67437bbb5042dea4c4b"
+  },
+  "Codigo": 1,
+  "Nombre": "Rialto",
+  "Pelicula": {
+    "$oid": "6422c5c137bbb5042dea4c46"
+  }
+},{
+  "_id": {
+    "$oid": "6422c67437bbb5042dea4c4c"
+  },
+  "Codigo": 2,
+  "Nombre": "Renoir Pza España",
+  "Pelicula": {
+    "$oid": "6422c5c137bbb5042dea4c47"
+  }
+},{
+  "_id": {
+    "$oid": "6422c67437bbb5042dea4c4d"
+  },
+  "Codigo": 3,
+  "Nombre": "Verdi",
+  "Pelicula": {
+    "$oid": "6422c5c137bbb5042dea4c48"
+  }
+},{
+  "_id": {
+    "$oid": "6422c67437bbb5042dea4c4e"
+  },
+  "Codigo": 4,
+  "Nombre": "Luchana",
+  "Pelicula": {
+    "$oid": "6422c5c137bbb5042dea4c48"
+  }
+},{
+  "_id": {
+    "$oid": "6422c67437bbb5042dea4c4f"
+  },
+  "Codigo": 5,
+  "Nombre": "JCA Valls",
+  "Pelicula": {
+    "$oid": "6422c5c137bbb5042dea4c49"
+  }
+}]

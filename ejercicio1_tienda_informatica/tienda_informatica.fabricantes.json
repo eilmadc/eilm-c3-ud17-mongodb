@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6422b41737bbb5042dea4c2f"
+  },
+  "codigo": 1,
+  "nombre": "HP"
+},{
+  "_id": {
+    "$oid": "6422b48537bbb5042dea4c30"
+  },
+  "codigo": 2,
+  "nombre": "MSI"
+},{
+  "_id": {
+    "$oid": "6422b4ab37bbb5042dea4c31"
+  },
+  "codigo": 3,
+  "nombre": "Dell"
+}]

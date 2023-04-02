@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6422ccb137bbb5042dea4c68"
+  },
+  "id": "A001",
+  "Nombre": "Ferreteria Suministros Pepe SL"
+},{
+  "_id": {
+    "$oid": "6422ccb137bbb5042dea4c69"
+  },
+  "id": "A002",
+  "Nombre": "Ferreteria Avila"
+},{
+  "_id": {
+    "$oid": "6422ccb137bbb5042dea4c6a"
+  },
+  "id": "A003",
+  "Nombre": "Suministros Bilbao"
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6422bb9b37bbb5042dea4c36"
+  },
+  "DNI": "5073498A",
+  "Nombre": "Patricia",
+  "Apellidos": "del Cerro",
+  "Departamento": {
+    "$oid": "6422be4f37bbb5042dea4c3d"
+  }
+},{
+  "_id": {
+    "$oid": "6422bb9b37bbb5042dea4c37"
+  },
+  "DNI": "5674567D",
+  "Nombre": "Juan",
+  "Apellidos": "del Peral",
+  "Departamento": {
+    "$oid": "6422be4f37bbb5042dea4c3a"
+  }
+},{
+  "_id": {
+    "$oid": "6422bb9b37bbb5042dea4c38"
+  },
+  "DNI": "3075598A",
+  "Nombre": "Lucia",
+  "Apellidos": "del Manzano",
+  "Departamento": {
+    "$oid": "6422be4f37bbb5042dea4c3a"
+  }
+},{
+  "_id": {
+    "$oid": "6422bb9b37bbb5042dea4c39"
+  },
+  "DNI": "8077442A",
+  "Nombre": "Luz",
+  "Apellidos": "de la Hera",
+  "Departamento": {
+    "$oid": "6422be4f37bbb5042dea4c3c"
+  }
+}]

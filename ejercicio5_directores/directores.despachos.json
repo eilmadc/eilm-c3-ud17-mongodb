@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6422c95737bbb5042dea4c54"
+  },
+  "Numero": 1,
+  "Capacidad": 2
+},{
+  "_id": {
+    "$oid": "6422c95737bbb5042dea4c55"
+  },
+  "Numero": 2,
+  "Capacidad": 5
+},{
+  "_id": {
+    "$oid": "6422c95737bbb5042dea4c56"
+  },
+  "Numero": 3,
+  "Capacidad": 2
+},{
+  "_id": {
+    "$oid": "6422c95737bbb5042dea4c57"
+  },
+  "Numero": 4,
+  "Capacidad": 3
+},{
+  "_id": {
+    "$oid": "6422c95737bbb5042dea4c58"
+  },
+  "Numero": 5,
+  "Capacidad": 12
+},{
+  "_id": {
+    "$oid": "6422c95737bbb5042dea4c59"
+  },
+  "Numero": 6,
+  "Capacidad": 20
+}]

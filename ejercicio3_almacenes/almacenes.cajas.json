@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6422c34637bbb5042dea4c42"
+  },
+  "NumReferencia": "A0001",
+  "Contenido": "brújulas",
+  "Valor": 1200,
+  "Almacen": {
+    "$oid": "6422c19837bbb5042dea4c41"
+  }
+},{
+  "_id": {
+    "$oid": "6422c34637bbb5042dea4c43"
+  },
+  "NumReferencia": "A0002",
+  "Contenido": "cantimploras",
+  "Valor": 1700,
+  "Almacen": {
+    "$oid": "6422c19837bbb5042dea4c3f"
+  }
+},{
+  "_id": {
+    "$oid": "6422c34637bbb5042dea4c44"
+  },
+  "NumReferencia": "A0003",
+  "Contenido": "cuerda",
+  "Valor": 770,
+  "Almacen": {
+    "$oid": "6422c19837bbb5042dea4c3e"
+  }
+},{
+  "_id": {
+    "$oid": "6422c34637bbb5042dea4c45"
+  },
+  "NumReferencia": "A0004",
+  "Contenido": "tienda",
+  "Valor": 3700,
+  "Almacen": {
+    "$oid": "6422c19837bbb5042dea4c40"
+  }
+}]

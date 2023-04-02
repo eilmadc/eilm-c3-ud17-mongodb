@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6422b83937bbb5042dea4c32"
+  },
+  "Codigo": 1,
+  "Nombre": "laptop 15' ",
+  "Precio": 475,
+  "Fabricante": {
+    "$oid": "6422b41737bbb5042dea4c2f"
+  }
+},{
+  "_id": {
+    "$oid": "6422b83937bbb5042dea4c33"
+  },
+  "Codigo": 2,
+  "Nombre": "laptop 17' ",
+  "Precio": 575,
+  "Fabricante": {
+    "$oid": "6422b41737bbb5042dea4c2f"
+  }
+},{
+  "_id": {
+    "$oid": "6422b83937bbb5042dea4c34"
+  },
+  "Codigo": 3,
+  "Nombre": "pc Intel ",
+  "Precio": 450,
+  "Fabricante": {
+    "$oid": "6422b4ab37bbb5042dea4c31"
+  }
+},{
+  "_id": {
+    "$oid": "6422b83937bbb5042dea4c35"
+  },
+  "Codigo": 4,
+  "Nombre": "laptop gaming ",
+  "Precio": 675,
+  "Fabricante": {
+    "$oid": "6422b48537bbb5042dea4c30"
+  }
+}]
