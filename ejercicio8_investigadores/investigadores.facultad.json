@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6429c6e1d0b536c71dd09d4e"
+  },
+  "codigo": 111,
+  "nombre": "Facultad de Ciencias"
+},{
+  "_id": {
+    "$oid": "6429c6e1d0b536c71dd09d4f"
+  },
+  "codigo": 112,
+  "nombre": "Facultad de Filosofía"
+},{
+  "_id": {
+    "$oid": "6429c6e1d0b536c71dd09d50"
+  },
+  "codigo": 113,
+  "nombre": "Facultad de Humanidades"
+},{
+  "_id": {
+    "$oid": "6429c6e1d0b536c71dd09d51"
+  },
+  "codigo": 114,
+  "nombre": "Facultad de Bellas Artes"
+},{
+  "_id": {
+    "$oid": "6429c6e1d0b536c71dd09d52"
+  },
+  "codigo": 115,
+  "nombre": "Facultad de Filología Hispánica"
+},{
+  "_id": {
+    "$oid": "6429c6e1d0b536c71dd09d53"
+  },
+  "codigo": 116,
+  "nombre": "Facultad de Matemáticas"
+},{
+  "_id": {
+    "$oid": "6429c6e1d0b536c71dd09d54"
+  },
+  "codigo": 117,
+  "nombre": "Facultad de Telecomunicaciones"
+}]

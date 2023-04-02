@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d5b"
+  },
+  "numSerie": "1212",
+  "nombre": "Equipo de investigacion 01",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d4e"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d5c"
+  },
+  "numSerie": "2526",
+  "nombre": "Equipo de investigacion 02",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d4f"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d5d"
+  },
+  "numSerie": "4241",
+  "nombre": "Equipo de investigacion 03",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d50"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d5e"
+  },
+  "numSerie": "6578",
+  "nombre": "Equipo de investigacion 04",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d50"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d5f"
+  },
+  "numSerie": "3248",
+  "nombre": "Equipo de investigacion 05",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d51"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d60"
+  },
+  "numSerie": "4541",
+  "nombre": "Equipo de investigacion 06",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d52"
+  }
+}]

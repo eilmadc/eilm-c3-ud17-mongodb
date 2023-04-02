@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d55"
+  },
+  "dni": "3343242A",
+  "nombreApellidos": "Rodolf Hein",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d4e"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d56"
+  },
+  "dni": "3423434B",
+  "nombreApellidos": "Penelope Hixon",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d4f"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d57"
+  },
+  "dni": "4675474C",
+  "nombreApellidos": "Usko Rauch",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d50"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d58"
+  },
+  "dni": "4574566D",
+  "nombreApellidos": "Jermain Keating",
+  "facultad": ""
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d59"
+  },
+  "dni": "7858578E",
+  "nombreApellidos": "Kaspar Bohnert",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d51"
+  }
+},{
+  "_id": {
+    "$oid": "6429c9d0d0b536c71dd09d5a"
+  },
+  "dni": "9087889F",
+  "nombreApellidos": "Fiorella Comeau",
+  "facultad": {
+    "$oid": "6429c6e1d0b536c71dd09d52"
+  }
+}]
