@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6429e9f4055b460bd3428e22"
+  },
+  "dni": "3343242A",
+  "nomApels": "Rodolf Hein"
+},{
+  "_id": {
+    "$oid": "6429e9f4055b460bd3428e23"
+  },
+  "dni": "3423434B",
+  "nomApels": "Penelope Hixon"
+},{
+  "_id": {
+    "$oid": "6429e9f4055b460bd3428e24"
+  },
+  "dni": "4675474C",
+  "nomApels": "Usko Rauch"
+},{
+  "_id": {
+    "$oid": "6429e9f4055b460bd3428e25"
+  },
+  "dni": "4574566D",
+  "nomApels": "Jermain Keating"
+},{
+  "_id": {
+    "$oid": "6429e9f4055b460bd3428e26"
+  },
+  "dni": "7858578E",
+  "nomApels": "Kaspar Bohnert"
+},{
+  "_id": {
+    "$oid": "6429e9f4055b460bd3428e27"
+  },
+  "dni": "9087889F",
+  "nomApels": "Fiorella Comeau"
+}]

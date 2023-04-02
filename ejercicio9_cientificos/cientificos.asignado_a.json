@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e2e"
+  },
+  "cientifico": {
+    "$oid": "6429e9f4055b460bd3428e22"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e28"
+  }
+},{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e2f"
+  },
+  "cientifico": {
+    "$oid": "6429e9f4055b460bd3428e23"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e29"
+  }
+},{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e30"
+  },
+  "cientifico": {
+    "$oid": "6429e9f4055b460bd3428e24"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e2a"
+  }
+},{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e31"
+  },
+  "cientifico": {
+    "$oid": "6429e9f4055b460bd3428e25"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e2b"
+  }
+},{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e32"
+  },
+  "cientifico": {
+    "$oid": "6429ee0803f0cef6eebeeeac"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e2c"
+  }
+},{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e33"
+  },
+  "cientifico": {
+    "$oid": "6429e9f4055b460bd3428e27"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e2d"
+  }
+},{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e34"
+  },
+  "cientifico": {
+    "$oid": "6429e9f4055b460bd3428e23"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e2b"
+  }
+},{
+  "_id": {
+    "$oid": "6429ed5d055b460bd3428e35"
+  },
+  "cientifico": {
+    "$oid": "6429e9f4055b460bd3428e25"
+  },
+  "proyecto": {
+    "$oid": "6429ec25055b460bd3428e2a"
+  }
+}]
